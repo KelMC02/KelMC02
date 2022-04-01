@@ -1,5 +1,5 @@
 👋 Hi, I’m Kel!
-- 👀 I’m interested in Watching Tech, anime, music, etc.
+- 👀 I’m interested in Tech, anime, music, etc.
 - 🌱 I’m currently learning HTML, CSS, Javascript and react
 - 💞️ I’m looking to collaborate on website development projects
 - 📫 How to reach me (email @mikelmcpherson2002@gmail.com)
